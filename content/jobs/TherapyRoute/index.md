@@ -1,6 +1,6 @@
 ---
 date: '2019-04-03'
-title: 'Web Developer'
+title: 'Jr. Software Engineer'
 company: 'TherapyRoute'
 location: 'Cape Town, South Africa'
 range: 'April 2019 - Present'
