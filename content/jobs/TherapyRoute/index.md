@@ -1,9 +1,9 @@
 ---
 date: '2019-04-03'
-title: 'Jr. Software Engineer'
+title: 'Software Engineer'
 company: 'TherapyRoute'
 location: 'Cape Town, South Africa'
-range: 'April 2019 - Present'
+range: 'April 2019 - May 2021'
 url: 'https://www.therapyroute.com/'
 ---
 

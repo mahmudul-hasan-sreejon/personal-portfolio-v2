@@ -1,6 +1,6 @@
 ---
 date: '2019-04-01'
-title: 'Jr. Software Engineer'
+title: 'Software Engineer'
 company: 'JustDo'
 location: 'San Francisco, CA, USA'
 range: 'April 2019 - December 2020'
